@@ -6,7 +6,9 @@ function Footer() {
                     © {new Date().getFullYear()} Copyright Text
                     <a
                         className='grey-text text-lighten-4 right'
-                        href='https://github.com/Maxim280596'
+                        href='https://github.com/Maxim280596/fortnite'
+                        target='_blank'
+                        rel='noreferrer'
                     >
                         Repo
                     </a>
